@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Native Map Test</string>
+    <string name="action_settings">Settings</string>
+</resources>
